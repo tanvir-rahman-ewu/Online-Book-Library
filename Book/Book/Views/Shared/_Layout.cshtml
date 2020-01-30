@@ -1,0 +1,227 @@
+﻿@*@<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - Book</title>
+
+        <environment include="Development">
+            <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+            <link rel="stylesheet" href="~/css/site.css" />
+
+        </environment>
+        <environment exclude="Development">
+            <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+                  asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+                  asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+            <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+        </environment>
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Book</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
+                    </ul>
+                    <ul style="padding-right:16px" class="nav navbar-nav navbar-right">
+                        @if (!string.IsNullOrEmpty(Context.Session.GetString("UserId")))
+                        {
+                            <li><a asp-area="" asp-controller="Profile" asp-action="Index">@Context.Session.GetString("Name")</a></li>
+                            <li><a asp-area="" asp-controller="Home" asp-action="LogOut">LogOut</a></li>
+                            <li><a asp-area="" asp-controller="LiveChat" asp-action="Index">Live Chat</a></li>
+                        }
+                        else
+                        {
+                            <li><a asp-area="" asp-controller="Home" asp-action="LogIn">Log In</a></li>
+                            <li><a asp-area="" asp-controller="Home" asp-action="SignUp">Sign Up</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <partial name="_CookieConsentPartial" />
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>Buy book</p>
+                <hr />
+            </footer>
+        </div>
+
+        <environment include="Development">
+            <script src="~/lib/jquery/dist/jquery.js"></script>
+            <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+            <script src="~/js/site.js" asp-append-version="true"></script>
+        </environment>
+        <environment exclude="Development">
+            <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                    asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                    asp-fallback-test="window.jQuery"
+                    crossorigin="anonymous"
+                    integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+            </script>
+            <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                    asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                    asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                    crossorigin="anonymous"
+                    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+            </script>
+            <script src="~/js/site.min.js" asp-append-version="true"></script>
+        </environment>
+
+        @RenderSection("Scripts", required: false)
+    </body>
+    </html>
+*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Book Store</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700" rel="stylesheet">
+    <link rel="stylesheet" href="~/pizzaorder/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/owl.carousel.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/animate.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/style.css" />
+
+</head>
+<body>
+    
+ 
+    <!-- Header section -->
+    <header class="header-section">
+        <div class="header-top">
+            <div class="container">
+                <div class="header-social">
+                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-dribbble"></i></a>
+                    <a href="#"><i class="fa fa-behance"></i></a>
+                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                </div>
+                <div class="user-panel">
+
+
+                    @if (!string.IsNullOrEmpty(Context.Session.GetString("UserId")))
+                    {
+                        <a asp-area="" asp-controller="Profile" asp-action="Index">@Context.Session.GetString("Name")</a>
+                        <a asp-area="" asp-controller="Home" asp-action="UsersBook">Book Reviews</a>
+                        <a asp-area="" asp-controller="Home" asp-action="LogOut">LogOut</a>
+                        <a asp-area="" asp-controller="LiveChat" asp-action="Index">Live Chat</a>
+                    }
+                    else
+                    {
+                        <a asp-area="" asp-controller="Home" asp-action="SignUp">Register</a>
+                        <a asp-action="LogIn" asp-controller="Home">Login</a>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <partial name="_CookieConsentPartial" />
+
+        <div class="header-bottom">
+            <div class="container">
+                <a href="index.html" class="site-logo">
+                    <img src="~/images/book_logo/book_logo.jpg" alt="">
+                </a>
+                
+                <div class="header-search" value ="Cart">
+                    <a asp-action="CheckOut" asp-controller="User">
+                       
+                        @if (TempData["N"] == null)
+                        {
+
+                            <span>(0)</span>
+                        }
+                        else
+                        {
+
+                            <span>(@TempData["N"])</span>
+
+                        }
+                    </a>
+                </div>
+                <ul class="main-menu">
+                    <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+                    <li><a asp-action="About" asp-controller="Home">About</a></li>
+                    <li><a asp-action="About" asp-controller="Home">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+
+
+
+
+    <partial name="_CookieConsentPartial" />
+
+    <div class="container body-content">
+
+        @RenderBody()
+
+        <hr/>
+
+        <footer class="footer-section set-bg" data-setbg="/images/book_logo/footer_image.jpg">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="footer-logo">
+                            <img src="~/images/book_logo/book_logo.jpg" alt="">
+                        </div>
+                        <div class="footer-social">
+                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                            <a href="#"><i class="fa fa-behance"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 text-lg-right">
+                        <ul class="footer-menu">
+                            <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+                            <li><a asp-action="About" asp-controller="Home">About</a></li>
+                            <li><a asp-action="Contact" asp-controller="Home">Contact</a></li>
+                        </ul>
+                        <p class="copyright">
+                            Copyright &copy; Project | CSE 411 | EWU
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+   
+
+
+    <!-- Footer section end -->
+    <!--====== Javascripts & Jquery ======-->
+    <script src="~/pizzaorder/js/jquery-3.2.1.min.js"></script>
+    <script src="~/pizzaorder/js/owl.carousel.min.js"></script>
+    <script src="~/pizzaorder/js/main.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

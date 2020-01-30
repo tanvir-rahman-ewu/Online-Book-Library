@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewData["Title"] = "CheckOut";
+}
+
+<h2>CheckOut</h2>
+
+<div class="checkout">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-1">
+
+            </div>
+            <div class="col-md-10">
+                <div class="boxx">
+                    <h4><i class="fa fa-cart-plus"></i>  Your Shopping Cart</h4>
+                </div>
+            </div>
+
+            <div class="col-md-1">
+
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+                <div class="tblcart">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>FoodName</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                                <th>Bill</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in ViewData["cart"] as List<Book.Models.OrderModel>)
+                            {
+                                <tr>
+                                    
+                                    <td>@item.Quantity</td>
+                                    <td>$@item.Bill</td>
+                                </tr>
+
+                            }
+                        </tbody>
+
+                        <tfoot class="bg bg-light text-primary font-weight-bold">
+                            <tr>
+                                <td colspan="3">Total Price</td>
+                                <td>$@TempData["total"]</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8"></div>
+            <div class="col-md-4">
+                <div class="btn_adche">
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">AdToCart</a>
+
+                   
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

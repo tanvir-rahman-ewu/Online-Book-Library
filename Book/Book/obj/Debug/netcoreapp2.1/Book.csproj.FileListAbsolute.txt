@@ -1,0 +1,215 @@
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.json
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.dev.json
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.dll
+C:\Users\Bangladesh\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.input.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.output.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorCoreGenerate.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cache
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CopyComplete
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUp.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\LogIn.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Add.g.cshtml.cs
+C:\Users\Bangladesh\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.json
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.dll
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.input.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.output.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorCoreGenerate.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Add.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\LogIn.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUp.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cache
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CopyComplete
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddBook.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ShowAlluser.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\LiveChat\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project\Book-20190303T130825Z-001\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Order.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.json
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.dev.json
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.dll
+C:\Users\Bangladesh\Downloads\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.input.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.output.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorCoreGenerate.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddBook.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ShowAlluser.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Add.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\LogIn.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUp.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\LiveChat\Index.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Order.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cache
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cs
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Bangladesh\Downloads\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CopyComplete
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.json
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.dll
+C:\Users\Win10\Desktop\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.input.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.output.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorCoreGenerate.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddBook.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ShowAlluser.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Add.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\LogIn.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUp.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\LiveChat\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Order.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cache
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.Views.pdb
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CopyComplete
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\AddToCart.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\CheckOut.g.cshtml.cs
+C:\Users\Win10\Desktop\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\UsersBook.g.cshtml.cs
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.json
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.runtimeconfig.dev.json
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.dll
+D:\411 project Test\Book\Book\bin\Debug\netcoreapp2.1\Book.Views.pdb
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorAssemblyInfo.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.input.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.TagHelpers.output.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorCoreGenerate.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddBook.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ShowAlluser.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Add.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\LogIn.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\SignUp.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\UsersBook.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\LiveChat\Index.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\AddToCart.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\CheckOut.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\User\Order.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cache
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.RazorTargetAssemblyInfo.cs
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.Views.pdb
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb
+D:\411 project Test\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CopyComplete

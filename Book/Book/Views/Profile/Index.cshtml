@@ -1,0 +1,26 @@
+﻿@model UserModel
+
+@{
+    ViewData["Title"] = "All Users";
+}
+
+<h2>Profile</h2>
+
+<div class="thumbnail">
+<img src="~/images/Profile_Pictures/@Model.ProfilePicUrl" height="100" width="90" />
+</div>
+
+<ul>
+
+    <li>First Name : @Model.FirstName</li>
+    <li>Last Name : @Model.LastName</li>
+    <li>Date of birth : @Model.Dob.Day/@Model.Dob.Month/@Model.Dob.Year</li>
+    <li>Email : @Model.Email</li>
+    <li>Address : @Model.Address</li>
+    <li>Contact : @Model.Phone</li>
+
+</ul>
+
+<a asp-action="Add" asp-controller="Books">Add Books</a>
+<a asp-action="Index" asp-controller="Books">Show Books</a>
+

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Book.Models.UserBooksModel>
+<h2>
+    Reviews
+</h2>
+
+@foreach (var item in Model)
+{
+    <hr />
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="~/images/Book_cover/@item.ProfilePicUrl" height="100" width="90" alt="Profile Picture" />
+
+                <ul style="font-weight : bold">
+                    <li> @Html.DisplayNameFor(model => model.Name) : @Html.DisplayFor(modelItem => item.Name) </li>
+                    <li> @Html.DisplayNameFor(model => model.Author) : @Html.DisplayFor(modelItem => item.Author) </li>
+                    <li> @Html.DisplayNameFor(model => model.Genre) : @Html.DisplayFor(modelItem => item.Genre)</li>
+                    <li> @Html.DisplayNameFor(model => model.PublishedDate) : @Html.DisplayFor(modelItem => item.PublishedDate)</li>
+                    <li> @Html.DisplayNameFor(model => model.Description) : @Html.DisplayFor(modelItem => item.Description)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+}

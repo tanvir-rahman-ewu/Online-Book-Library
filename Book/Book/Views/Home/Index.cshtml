@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Book.Models.SellBookModel>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pizza Order</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700" rel="stylesheet">
+    <link rel="stylesheet" href="~/pizzaorder/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/owl.carousel.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/animate.css" />
+    <link rel="stylesheet" href="~/pizzaorder/css/style.css" />
+
+</head>
+<body>
+
+    <section class="hero-section">
+        <div class="hero-slider owl-carousel">
+            <div class="hero-slide-item set-bg" data-setbg="/images/slider_images/book_slide_1.jpg">
+                <div class="hs-text">
+                    <h2 class="hs-title-1"><span>A room without books  </span></h2>
+                    <h2 class="hs-title-2"><span>is like a body </span></h2>
+                    <h2 class="hs-title-3"><span>without a soul!</span></h2>
+                </div>
+            </div>
+            <div class="hero-slide-item set-bg" data-setbg="/images/slider_images/book_slide_2.jpg">
+                <div class="hs-text">
+                    <h2 class="hs-title-1"><span>Good friends, good books, </span></h2>
+                    <h2 class="hs-title-2"><span>and a sleepy conscience: </span></h2>
+                    <h2 class="hs-title-3"><span>this is the ideal life!</span></h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hero section end -->
+    <!-- Menu Section Start-->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="menuimg">
+                    <h3>Grab Your Books</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+
+
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="box">
+                        <div class="imgBox">
+                            <img src="~/images/Book_cover/@item.ProfilePicUrl" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>@Html.DisplayFor(modelItem => item.Name)</h3>
+                            <p>@Html.DisplayFor(modelItem => item.Author)<p />
+                            <a asp-action="AddToCart" asp-controller="User" asp-route-id="@item.Id" class="btn btn-primary btnD">Add to Cart</a>
+                            <h4> @Html.DisplayFor(modelItem => item.Price) BDT</h4>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+        </div>
+    </div>
+    <!-- Menu Section end-->
+    <!-- Footer section  -->
+    <!-- Footer section end -->
+    <!--====== Javascripts & Jquery ======-->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
